@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="./dist/assets/logo.svg" alt="logo" width="140"  height="auto" />
+  <img src="./public/pokedex.svg" alt="logo" width="140"  height="auto" />
   <h1><b>POKEDEX</b></h1>
 </div>
 
@@ -12,15 +12,13 @@
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-  - [👁 Presentation Video](#video)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
+- [👥 Author](#author)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -28,11 +26,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
 # 🎯 Pokedex<a name="about-project"></a>
 
-> The pokedex website displays Pokemon using pokeapi. Here user can also like a Pokemon, can add a comment for a Pokemon.
+The Pokedex website utilizes data from the PokeAPI to provide a comprehensive display of Pokémon. Users not only can browse and view detailed information about each Pokémon but can also engage with the content.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -43,17 +39,17 @@
   <ul>
     <li>HTML</li>
     <li>CSS</li>
-    <li>Javascript</li>
-    <li>Webpack</li>
+    <li>JavaScript</li>
   </ul>
 </details>
 
 <details>
   <summary>Tools</summary>
-  <ul>
-    <li> VS Code</li>
-    <li>GIT</li>
-    <li>GITHUB</li>
+  <ul>    
+    <li>Webpack</li>
+    <li>Visual Studio Code</li>
+    <li>Git</li>
+    <li>GitHub</li>
   </ul>
 </details>
 
@@ -61,7 +57,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-> This project is a simple Pokedex. The main features are:
+This project is a simple Pokedex. The main features are:
 
 - **View pokémons**
 - **Add likes to a pokemon**
@@ -71,29 +67,17 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://shahadat3669.github.io/pokedex/dist/index.html)
+- [Live Demo Link](https://www.paulsaenzsucre.dev/pokedex/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 👁 Presentation video <a name="video"></a>
-
-
-https://user-images.githubusercontent.com/55840999/211104208-0fe78cf8-b8c4-4197-8e48-673c2580441e.mp4
-- [Presentation video link](./presentation/video.mp4)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites <a name="prerequisites"></a>
 
 you have to those tools in your local machine.
 
@@ -101,12 +85,12 @@ you have to those tools in your local machine.
 - [ ] GIT & GITHUB
 - [ ] Any Code Editor (VS Code, Brackets, etc)
 
-### Setup
+### Setup <a name="setup"></a>
 
 Clone the project.
 
 ```bash
-  git clone git@github.com:shahadat3669/pokedex.git
+  git clone git@github.com:paulsaenzsucre/pokedex.git
 ```
 
 Go to the project directory.
@@ -129,77 +113,73 @@ Now in terminal run `npm start` to start the webpack dev server.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-
 ## 👥 Authors <a name="authors"></a>
 
-### First Author:
+👤 **Paul Sáenz Sucre**
 
-**Shahadat Hossain**
+- Portfolio: [www.paulsaenzsucre.dev](https://paulsaenzsucre.dev)
+- GitHub: [@paulsaenzsucre](https://github.com/paulsaenzsucre)
+- Twitter: [@paulsaenzsucre](https://twitter.com/paulsaenzsucre)
+- LinkedIn: [@paulsaenzsucre](https://www.linkedin.com/in/paulsaenzsucre)
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/shahadat3669) [![linkedin](https://img.shields.io/badge/shahadat3669-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahadat3669) [![twitter](https://img.shields.io/badge/@shahadat3669-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shahadat3669)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Second Author:
+## 👥 Previous Contributors <a name="contributors"></a>
 
-**Paul Sáenz Sucre**
+👤 **Shahadat Hossain**
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/elafildecolor) [![linkedin](https://img.shields.io/badge/paulsaenzsucre-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paulsaenzsucre) [![twitter](https://img.shields.io/badge/@paulsaenzsucre-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paulsaenzsucre)
-
+- GitHub: [@shahadat3669](https://github.com/shahadat3669)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] **We will add reservation section**
+- [ ] **We will add berries section**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/paulsaenzsucre/pokedex/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
-
-## 👋 Show your support <a name="support"></a>
+## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-## 🔭Acknowledgments <a name="acknowledgements"></a>
-
-- My Family.
-- [Microverse Team](https://www.microverse.org/).
-- [Poke API](https://pokeapi.co/).
-- [Involvement API](https://www.notion.so/Involvement-API-869e60b5ad104603aa6db59e08150270).
+- Thanks to my coding partner Shahadat who was an initial contributor to this project.
+- [Microverse](https://www.microverse.org/) team and classmates.
+- Thanks for all the curated content that was provided to us.
+- Thanks to my learning and coding partners for all their support.
+- Hat tip to anyone whose code was used.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
 ## ❓ FAQ <a name="faq"></a>
-
-- **Are you using database?**
-
-  - No, I am not using any database.
 
 - **Can I use this project for personal use?**
 
-  - Yes, you can use it.
-
+  - Sure, if you want to talk about something specific, feel free to send me a direct message. <br><br>
+ 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+
+<div align="center">
+  <img src="./public/logoPS.svg" alt="logo" width="64"  height="auto" />
+  <p><b style="color: #3f3;">Copyright &copy; 2023 - Paul Saenz Sucre</b></p>
+</div>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
