@@ -353,15 +353,20 @@ body {
 
 /* footer */
 .footer {
-  height: 5rem;
   border-top: 1px solid var(--dark);
-  border-bottom: 1px solid var(--dark);
-  display: flex;
-  align-items: center;
+  padding: 1rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+.footer-img {
+  width: 4rem;
+  height: auto;
 }
 
 .footer p {
   color: var(--dark);
+  text-align: center;
 }
 
 .button {

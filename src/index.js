@@ -21,5 +21,6 @@ import './assets/rock.svg';
 import './assets/steel.svg';
 import './assets/water.svg';
 import './assets/logo.svg';
+import './assets/logops.svg';
 
 start();
