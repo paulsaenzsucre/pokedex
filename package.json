@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shahadat3669/pokedex.git"
+    "url": "git+https://github.com/paulsaenzsucre/pokedex.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shahadat3669/pokedex/issues"
+    "url": "https://github.com/paulsaenzsucre/pokedex/issues"
   },
-  "homepage": "https://github.com/shahadat3669/pokedex#readme",
+  "homepage": "https://www.paulsaenzsucre.dev/pokedex",
   "devDependencies": {
     "@babel/core": "^7.20.12",
     "@babel/plugin-transform-modules-commonjs": "^7.20.11",
